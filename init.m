@@ -1,3 +1,9 @@
+// init
+// 
+//
+// IDECodeSnippetIdentifier: E84A96C0-1050-4F99-AE53-F85E57E2A0B2
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 ---
 title: "init"
 summary: "Designated incantation for your designated initializers"
