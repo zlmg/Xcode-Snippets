@@ -7,6 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
+/// Initialization code
 - (void)initCell {
     <#code#>
 }
