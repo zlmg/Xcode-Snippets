@@ -1,1 +1,1 @@
-@property (nonatomic, copy) NSDictionary *<#name#>;
+@property (nonatomic, copy) NSDictionary *<#name#>;///< <#comment#>
