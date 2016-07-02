@@ -1,6 +1,7 @@
 // mminitcell
 // 
 //
+// IDECodeSnippetCompletionPrefix: mminitcell
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: FD89A121-DAE8-4027-A831-D384F7A833A1
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
