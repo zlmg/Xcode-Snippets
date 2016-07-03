@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 // mmdictionary
 // 
 //
-// IDECodeSnippetIdentifier: 0E0A43F6-7E2C-40B2-A34D-D15B9970EEEF
+// IDECodeSnippetIdentifier: 7C2B255D-5CEB-45CA-8D91-683B27D90E38
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-@property (nonatomic, copy) NSDictionary *<#name#>;///< <#comment#>
-=======
 @property (nonatomic, copy) NSDictionary *<#name#>;
->>>>>>> parent of 3e71b38... Imported user code snippets
