@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // weakself
 // 
 //
@@ -8,3 +9,12 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 __weak typeof(self)weakSelf = self;
+=======
+---
+title: "__weak self"
+summary: "Declare weak reference to self"
+completion-scope: Function or Method
+---
+
+__weak typeof(self)weakSelf = self;
+>>>>>>> parent of 3e71b38... Imported user code snippets

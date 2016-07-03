@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // lifecycle
 // 
 //
@@ -6,6 +7,8 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+=======
+>>>>>>> parent of 3e71b38... Imported user code snippets
 ---
 title: "UIViewController Lifecycle"
 summary: "Placeholders for all of the view controller lifecycle methods"

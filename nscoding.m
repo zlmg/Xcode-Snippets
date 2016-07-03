@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // nscoding
 // 
 //
@@ -6,6 +7,8 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+=======
+>>>>>>> parent of 3e71b38... Imported user code snippets
 ---
 title: "NSCoding Protocol Methods"
 summary: "Placeholders for NSCoding protocol methods"

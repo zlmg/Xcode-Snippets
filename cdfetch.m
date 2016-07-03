@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // cdfetch
 // 
 //
@@ -6,6 +7,8 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+=======
+>>>>>>> parent of 3e71b38... Imported user code snippets
 ---
 title: "Core Data Fetch"
 summary: "Simple Core Data Fetch with Predicate & Sort Descriptor"

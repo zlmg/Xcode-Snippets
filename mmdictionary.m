@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // mmdictionary
 // 
 //
@@ -5,3 +6,6 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 @property (nonatomic, copy) NSDictionary *<#name#>;///< <#comment#>
+=======
+@property (nonatomic, copy) NSDictionary *<#name#>;
+>>>>>>> parent of 3e71b38... Imported user code snippets

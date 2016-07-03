@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // singleton
 // 
 //
@@ -6,6 +7,8 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+=======
+>>>>>>> parent of 3e71b38... Imported user code snippets
 ---
 title: "Shared Singleton"
 summary: "Class method that returns a singleton instance"

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // checkerror
 // 
 //
@@ -6,6 +7,8 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+=======
+>>>>>>> parent of 3e71b38... Imported user code snippets
 ---
 title: "CheckError"
 summary: "Function that extracts human-readable information from OSStatus codes."

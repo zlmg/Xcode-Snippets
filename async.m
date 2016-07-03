@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // async
 // 
 //
@@ -6,6 +7,8 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+=======
+>>>>>>> parent of 3e71b38... Imported user code snippets
 ---
 title: "dispatch_async Pattern for Background Processing"
 summary: "Dispatch to do work in the background, and then to the main queue with the results"
