@@ -1,3 +1,9 @@
+// tvdel
+// 
+//
+// IDECodeSnippetIdentifier: 306D42EF-EDC5-4B5C-8217-4676FAB5D7B9
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 <<<<<<< HEAD
 // tvdel
 // 

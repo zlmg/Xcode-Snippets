@@ -1,3 +1,9 @@
+// frame
+// 
+//
+// IDECodeSnippetIdentifier: C20AA914-3BE8-41F0-99CF-AB094601AE4D
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 <<<<<<< HEAD
 // frame
 // 

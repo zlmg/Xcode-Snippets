@@ -1,3 +1,9 @@
+// xat
+// 
+//
+// IDECodeSnippetIdentifier: 4BCB04C0-A77A-45B3-ACE4-113D50C2287F
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 <<<<<<< HEAD
 // xat
 // 

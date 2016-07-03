@@ -1,3 +1,9 @@
+// documents
+// 
+//
+// IDECodeSnippetIdentifier: A95325C8-64B2-4E80-B4CE-4DBADB941B07
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 <<<<<<< HEAD
 // documents
 // 

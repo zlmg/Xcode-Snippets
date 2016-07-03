@@ -1,3 +1,9 @@
+// cdfetch
+// 
+//
+// IDECodeSnippetIdentifier: B4366AA0-3E98-4BF9-9B7D-C8E5B09C136B
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 <<<<<<< HEAD
 // cdfetch
 // 

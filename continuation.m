@@ -1,3 +1,9 @@
+// continuation
+// 
+//
+// IDECodeSnippetIdentifier: 43B3A81D-514A-4425-963A-52C64714049E
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 <<<<<<< HEAD
 // continuation
 // 

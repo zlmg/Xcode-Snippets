@@ -1,3 +1,9 @@
+// pdel
+// 
+//
+// IDECodeSnippetIdentifier: D065559F-EB6E-4F9A-950D-05ED04AC8969
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 <<<<<<< HEAD
 // pdel
 // 

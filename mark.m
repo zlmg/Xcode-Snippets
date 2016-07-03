@@ -1,3 +1,9 @@
+// mark
+// 
+//
+// IDECodeSnippetIdentifier: 27A6250D-987B-40F0-9B3B-FBE52FFE5CD2
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 <<<<<<< HEAD
 // mark
 // 

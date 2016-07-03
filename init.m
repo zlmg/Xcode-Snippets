@@ -1,3 +1,9 @@
+// init
+// 
+//
+// IDECodeSnippetIdentifier: FF7B35A7-BB04-4587-A681-DAFF30EE54E9
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 <<<<<<< HEAD
 // init
 // 

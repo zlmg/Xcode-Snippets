@@ -1,3 +1,9 @@
+// tu
+// 
+//
+// IDECodeSnippetIdentifier: 29588407-B4E6-4772-9A76-E27F2B319A0B
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 <<<<<<< HEAD
 // tu
 // 

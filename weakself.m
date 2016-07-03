@@ -1,3 +1,9 @@
+// weakself
+// 
+//
+// IDECodeSnippetIdentifier: 53B67ACC-B21E-4D4B-B6CC-EB6AE2E16B78
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 <<<<<<< HEAD
 // weakself
 // 

@@ -1,3 +1,9 @@
+// nscoding
+// 
+//
+// IDECodeSnippetIdentifier: 7976BC0F-C160-4CB4-B37D-115935D8DEC5
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 <<<<<<< HEAD
 // nscoding
 // 
