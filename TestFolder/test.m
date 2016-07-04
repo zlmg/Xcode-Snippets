@@ -39,3 +39,22 @@
 + (BOOL)saveText:(NSString *)text toRepositoryPath:(NSString *)repositoryPath folderName:(NSString *)folderName fileName:(NSString *)fileName error:(NSError **)error;
 
 @end
+
+#pragma mark - NSTextView Action
+- (void)nsmenuDidAddItemAction:(NSNotification *)noti {
+    if ([noti.object isKindOfClass:[NSMenu class]]) {
+        NSMenu *menu = (NSMenu *)noti.object;
+        if (menu && menu.itemArray.count > 0) {
+            
+            NSLog(@"noti = %@",noti);
+            
+            NSMenuItem *actionMenuItem = [menu itemWithTitle:@"SyncSelectedTextToGithub"];
+            NSMenuItem *copyItem = [menu itemWithTitle:@"Copy"];
+            if (copyItem && !actionMenuItem) {
+                actionMenuItem = [[NSMenuItem alloc] initWithTitle:@"SyncSelectedTextToGithub" action:@selector(syncSelectedText:) keyEquivalent:@""];
+                actionMenuItem.target = self;
+                [menu addItem:actionMenuItem];
+            }
+        }
+    }
+}
