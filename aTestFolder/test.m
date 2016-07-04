@@ -13,3 +13,24 @@
         self.selectedText = [text substringWithRange:selectedRange];
     }
 }
+
+- (void)syncSelectedText:(id)sender {
+    id<ACCodeSnippetDataStoreProtocol> dataStore = [[NSClassFromString(@"IDECodeSnippetRepository") sharedRepository] dataStores].firstObject;
+    
+    NSData *textData = [self.selectedText dataUsingEncoding:NSUTF8StringEncoding];
+    NSString *folderName = [NSString pathWithComponents:@[dataStore.localRepositoryPath, @"aTestFolder"]];
+    if (![[NSFileManager defaultManager] fileExistsAtPath:folderName]) {
+        [[NSFileManager defaultManager] createDirectoryAtPath:folderName withIntermediateDirectories:YES attributes:nil error:nil];
+    }
+    NSString *fileName = [NSString pathWithComponents:@[folderName, @"test.m"]];
+    if (![[NSFileManager defaultManager] fileExistsAtPath:fileName]) {
+        [textData writeToFile:fileName atomically:YES];
+    } else {
+        NSLog(@"file exists");
+        NSString *text = [NSString stringWithContentsOfFile:fileName encoding:NSUTF8StringEncoding error:nil];
+        text = [NSString stringWithFormat:@"%@\n\n%@", text, self.selectedText];
+        NSData *data = [text dataUsingEncoding:NSUTF8StringEncoding];
+        [data writeToFile:fileName atomically:YES];
+    }
+    [self updateAction:nil];
+}
