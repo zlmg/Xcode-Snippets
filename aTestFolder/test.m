@@ -1,3 +1,9 @@
+// aTestFolder/test
+// 
+//
+// IDECodeSnippetIdentifier: B15B509D-C0A6-4FD3-8FB9-8569EB3609F1
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 #pragma mark - NSTextView Action
 - (void)selectionDidChange:(NSNotification *)noti {
     if ([noti.object isKindOfClass:[NSTextView class]]) {
