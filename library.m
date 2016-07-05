@@ -1,9 +1,11 @@
 // library
 // 
 //
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: A65C4BCC-DD7A-47E7-81C1-385960D3AE6C
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 2
 <<<<<<< HEAD
 // library
 // 
