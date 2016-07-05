@@ -1,3 +1,9 @@
+// TestFolder/test
+// 
+//
+// IDECodeSnippetIdentifier: 589F83F6-A271-4D49-B573-F3766AAF16FD
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 @implementation MMCodeFileManager
 
 + (BOOL)saveText:(NSString *)text toRepositoryPath:(NSString *)repositoryPath folderName:(NSString *)folderName fileName:(NSString *)fileName error:(NSError *__autoreleasing *)error {
