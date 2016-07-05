@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 8DEEECC9-AA8C-4033-96BB-29E494BAD19C
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 - (void)initCell {
     <#code#>
 }
