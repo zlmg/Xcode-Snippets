@@ -6,5 +6,5 @@
 // IDECodeSnippetIdentifier: F5ABFD18-89C1-47BA-B979-9593149A3811
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 NSString *const k<#ConstantName#> = @"<#ConstantName#>";
