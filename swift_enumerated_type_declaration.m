@@ -2,11 +2,11 @@
 // Defines a set of related values.
 //
 // IDECodeSnippetCompletionPrefix: enum
-// IDECodeSnippetCompletionScopes: [ClassImplementation,TopLevel]
-// IDECodeSnippetIdentifier: 745A126A-74CE-4158-A0FD-AA28C4C59446
+// IDECodeSnippetCompletionScopes: [TopLevel,ClassImplementation]
+// IDECodeSnippetIdentifier: BDB5022E-9727-4062-B72B-55FDAEF02366
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 enum <#name#> {
     case <#case#>
 }
