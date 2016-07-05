@@ -1,9 +1,11 @@
 // lifecycle
 // 
 //
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: CE6C40A7-0371-446B-B8CC-3A4D23605131
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 2
 <<<<<<< HEAD
 // lifecycle
 // 
