@@ -2,10 +2,10 @@
 // Creates a variable that can be changed.
 //
 // IDECodeSnippetCompletionPrefix: var
-// IDECodeSnippetCompletionScopes: [ClassImplementation,CodeBlock,TopLevel]
-// IDECodeSnippetIdentifier: 63BA5F06-3A66-4853-923C-4C3119D92A18
+// IDECodeSnippetCompletionScopes: [TopLevel,CodeBlock,ClassImplementation]
+// IDECodeSnippetIdentifier: 8D1322E4-D8E6-4689-8736-42BE691ED5F6
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 var <#name#> = <#value#>
         
