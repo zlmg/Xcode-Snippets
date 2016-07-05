@@ -3,11 +3,11 @@
 //
 // IDECodeSnippetCompletionPrefix: @synchronized
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 6C90895D-5C25-429A-A739-7DC3C4953747
+// IDECodeSnippetIdentifier: B82746A3-8FEF-4488-8095-DD94F9E30912
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetRelativePriority: 1
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 @synchronized (<#token#>) {
     <#statements#>
 }
