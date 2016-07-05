@@ -1,9 +1,11 @@
 // tvds
 // 
 //
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 2ABD1A7C-EB1D-4CF0-8D28-0BD61C51694D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 2
 <<<<<<< HEAD
 // tvds
 // 
