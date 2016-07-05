@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: @interface
 // IDECodeSnippetCompletionScopes: [TopLevel]
-// IDECodeSnippetIdentifier: 594E2E10-E61A-453E-9011-8B99A7DDBB9D
+// IDECodeSnippetIdentifier: 1A3B2D6B-507E-4CFC-8FBC-1991376C8ADA
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 @interface <#class name#> : <#superclass#>
 
 @end
