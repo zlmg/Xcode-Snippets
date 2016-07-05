@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: @interface-extension
 // IDECodeSnippetCompletionScopes: [TopLevel]
-// IDECodeSnippetIdentifier: DE1BFE54-6A56-4424-9DDC-C4ACBBC649B2
+// IDECodeSnippetIdentifier: FBCA3710-E9CB-485E-8E8D-4F0904992F80
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 @interface <#class name#> ()
 
 @end
