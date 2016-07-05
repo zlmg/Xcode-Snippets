@@ -1,9 +1,11 @@
 // mailcomp
 // 
 //
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 0F84157F-275E-4C5F-A4BD-74FEDF6FE9FA
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 2
 <<<<<<< HEAD
 // mailcomp
 // 
