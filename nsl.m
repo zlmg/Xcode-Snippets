@@ -1,9 +1,11 @@
 // nsl
 // 
 //
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: A0138F6B-91C3-40B7-BD30-F1768A426E6C
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 2
 <<<<<<< HEAD
 // nsl
 // 
