@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: 
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: B73B46A2-E9E4-4D78-9365-B537727CE602
+// IDECodeSnippetIdentifier: 4BD67D32-0F94-4AE9-968C-D8800EF7E2CC
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 - (BOOL)validate<#CapitalizedPropertyName#>:(id *)valueRef error:(NSError **)outError
 {
     BOOL validationResult = YES;
