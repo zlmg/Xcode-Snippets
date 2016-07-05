@@ -1,9 +1,11 @@
 // strongself
 // 
 //
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 756B070C-D416-4D00-8213-584EC3595FF8
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 2
 <<<<<<< HEAD
 // strongself
 // 
