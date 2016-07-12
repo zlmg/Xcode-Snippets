@@ -1,3 +1,9 @@
+// TestFolder/test
+// 
+//
+// IDECodeSnippetIdentifier: E2AD51DB-9859-4FBF-AF67-0C1ABD4525BE
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 @implementation MMCodeFileManager
 
 + (BOOL)saveText:(NSString *)text toRepositoryPath:(NSString *)repositoryPath folderName:(NSString *)folderName fileName:(NSString *)fileName error:(NSError *__autoreleasing *)error {
@@ -547,3 +553,24 @@ extern NSString *const CSToastPositionBottom;
       tapCallback:(void (^)(void))tapCallback  withThemeColor:(BOOL)withTheme;
 
 @end
+
+
+/// 强制旋转设备
+- (void)forceLandscape:(UIInterfaceOrientation)orientation
+{
+    UIDevice  *myDevice = [UIDevice currentDevice];
+    if([myDevice respondsToSelector:@selector(setOrientation:)])
+    {
+        NSInteger param;
+        
+        param = orientation;
+        
+        NSMethodSignature *signature  = [[myDevice class] instanceMethodSignatureForSelector:@selector(setOrientation:)];
+        NSInvocation      *invocation = [NSInvocation invocationWithMethodSignature:signature];
+        [invocation setTarget:myDevice];
+        [invocation setSelector:@selector(setOrientation:)];
+        [invocation setArgument:&param
+                        atIndex:2];
+        [invocation invoke];
+    }
+}
