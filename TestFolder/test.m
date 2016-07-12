@@ -574,3 +574,12 @@ extern NSString *const CSToastPositionBottom;
         [invocation invoke];
     }
 }
+
+
+#import <UIKit/UIKit.h>
+
+@interface UIViewController (Extension)
+
+- (void)forceLandscape:(UIInterfaceOrientation)orientation;
+
+@end
