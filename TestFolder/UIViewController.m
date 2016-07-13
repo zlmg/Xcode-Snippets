@@ -1,3 +1,9 @@
+// TestFolder/UIViewController
+// 
+//
+// IDECodeSnippetIdentifier: 7851356B-86E8-45E9-8615-8B1882C07A00
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 #import "UIViewController+Extension.h"
 
 @implementation UIViewController (Extension)
